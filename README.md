@@ -65,7 +65,7 @@ Opti_Proj/
 ├── Opti_Project_pick3.ipynb     # Full analysis — draft slot 3 (early pick)
 ├── Opti_Project_pick7.ipynb     # Full analysis — draft slot 7 (middle) + Robust Opt
 ├── Opti_Project_pick12.ipynb    # Full analysis — draft slot 12 (last pick, snake advantage)
-├── Opti_Project.ipynb           # Earlier draft of slot-7 analysis (no Robust Opt)
+├── Opti_Project_Draft.ipynb     # Earlier draft of analysis pipeline
 ├── output.csv                   # Player projections dataset (533 players, 80+ columns)
 └── Opti_Project_Report.pdf      # Written report
 ```
