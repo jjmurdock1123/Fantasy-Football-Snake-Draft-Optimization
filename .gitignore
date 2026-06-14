@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+*.numbers
+
+# Duplicate data files
+output 2.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Gurobi license
+gurobi.log
