@@ -1,6 +1,6 @@
 # Fantasy Football Draft Optimizer
 
-MIT 15.C57 Optimization Methods Final Project
+MIT 15.C57 Optimization Methods Final Project, Fall 2025
 
 Justine Murdock, Owen Bao, Justin Che
 
