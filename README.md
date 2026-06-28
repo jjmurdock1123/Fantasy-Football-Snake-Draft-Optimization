@@ -1,6 +1,8 @@
 # Fantasy Football Draft Optimizer
 
-**MIT 15.C57 — Optimization Methods | Final Project**
+MIT 15.C57 Optimization Methods Final Project
+
+Justine Murdock, Owen Bao, Justin Che
 
 This project applies integer programming and stochastic optimization to the problem of building an optimal fantasy football roster in a 12-team snake draft. Five drafting strategies are implemented and benchmarked against each other across multiple draft positions.
 
